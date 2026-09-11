@@ -2,8 +2,6 @@
 
 I'm a Computer Science student and software developer focused on building modern web and mobile applications, AI-powered solutions, and workflow automation systems.
 
-I enjoy turning ideas into practical software — from polished interfaces and mobile apps to backend APIs and intelligent automations.
-
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science student and hands-on software developer
