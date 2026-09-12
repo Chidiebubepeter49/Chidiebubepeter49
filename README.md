@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter — Software Developer & AI Automation Builder
+# Hi, I'm Chidiebube Peter — Software Developer & AI Automation Builder
 
 I'm a Computer Science student and software developer focused on building modern web and mobile applications, AI-powered solutions, and workflow automation systems.
 
